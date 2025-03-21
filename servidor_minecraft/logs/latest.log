@@ -1052,3 +1052,13 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 03:37:33.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
 [21Mar2025 03:37:54.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Spectator Mode]
 [21Mar2025 03:38:02.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:39:49.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:39:59.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:41:21.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Acquire Hardware]
+[21Mar2025 03:42:32.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:42:37.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:46:31.038] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10164 in deceasedcraft:abyss
+[21Mar2025 03:46:31.039] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10164 in minecraft:the_nether
+[21Mar2025 03:46:31.039] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10164 in lostcities:lostcity
+[21Mar2025 03:46:31.040] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10164 in minecraft:the_end
+[21Mar2025 03:46:31.079] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10164 in minecraft:overworld
