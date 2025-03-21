@@ -182,7 +182,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cookie": "2025-03-21 03:15:14 +0000"
+      "cookie": "2025-03-21 03:15:14 +0000",
+      "carrot": "2025-03-21 03:30:46 +0000"
     },
     "done": false
   },
@@ -395,6 +396,7 @@
     "criteria": {
       "minecraft:beach": "2025-03-20 09:39:56 +0000",
       "minecraft:lukewarm_ocean": "2025-03-20 09:39:48 +0000",
+      "minecraft:forest": "2025-03-21 03:26:13 +0000",
       "minecraft:savanna": "2025-03-20 09:35:41 +0000"
     },
     "done": false

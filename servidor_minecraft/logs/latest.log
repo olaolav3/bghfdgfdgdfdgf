@@ -1037,3 +1037,18 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 03:20:07.479] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10231 in minecraft:overworld
 [21Mar2025 03:28:11.890] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
 [21Mar2025 03:28:11.890] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-03-20_09-35-42.zip"
+[21Mar2025 03:29:14.093] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[21Mar2025 03:32:54.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:32:55.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:33:17.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Spectator Mode]
+[21Mar2025 03:33:20.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:34:59.190] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6166 in deceasedcraft:abyss
+[21Mar2025 03:34:59.191] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6166 in minecraft:the_nether
+[21Mar2025 03:34:59.191] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6166 in lostcities:lostcity
+[21Mar2025 03:34:59.192] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6166 in minecraft:the_end
+[21Mar2025 03:34:59.229] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6166 in minecraft:overworld
+[21Mar2025 03:36:13.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:36:51.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:37:33.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:37:54.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Spectator Mode]
+[21Mar2025 03:38:02.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]

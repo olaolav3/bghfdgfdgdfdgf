@@ -16741,3 +16741,44 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 03:27:20.204] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
 [21Mar2025 03:28:11.890] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
 [21Mar2025 03:28:11.890] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-03-20_09-35-42.zip"
+[21Mar2025 03:29:14.093] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[21Mar2025 03:29:50.479] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[21Mar2025 03:29:50.529] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[21Mar2025 03:29:56.089] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[21Mar2025 03:29:56.089] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[21Mar2025 03:29:56.090] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[21Mar2025 03:29:56.090] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[21Mar2025 03:29:56.091] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[21Mar2025 03:29:56.100] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[21Mar2025 03:29:56.100] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[21Mar2025 03:29:56.101] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[21Mar2025 03:29:56.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 03:29:56.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 03:31:41.534] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[21Mar2025 03:32:54.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:32:55.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:33:10.629] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[21Mar2025 03:33:17.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Spectator Mode]
+[21Mar2025 03:33:17.936] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[21Mar2025 03:33:20.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:34:50.734] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[21Mar2025 03:34:56.092] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[21Mar2025 03:34:56.092] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[21Mar2025 03:34:56.093] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[21Mar2025 03:34:56.101] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[21Mar2025 03:34:56.103] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[21Mar2025 03:34:56.104] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[21Mar2025 03:34:56.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 03:34:56.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 03:34:59.190] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6166 in deceasedcraft:abyss
+[21Mar2025 03:34:59.191] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6166 in minecraft:the_nether
+[21Mar2025 03:34:59.191] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6166 in lostcities:lostcity
+[21Mar2025 03:34:59.192] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6166 in minecraft:the_end
+[21Mar2025 03:34:59.229] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6166 in minecraft:overworld
+[21Mar2025 03:36:13.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:36:30.579] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[21Mar2025 03:36:51.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:37:30.336] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[21Mar2025 03:37:33.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:37:54.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Spectator Mode]
+[21Mar2025 03:38:02.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
