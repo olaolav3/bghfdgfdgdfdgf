@@ -1022,3 +1022,10 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 03:05:01.085] [Server thread/INFO] [tac/]: PENDING
 [21Mar2025 03:05:27.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement ['X' Marks the Spot]
 [21Mar2025 03:08:47.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:09:10.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:13:02.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:13:21.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:14:24.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:14:28.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:16:33.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:16:44.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
