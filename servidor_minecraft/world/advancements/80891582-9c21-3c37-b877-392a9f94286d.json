@@ -42,12 +42,6 @@
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2025-03-20 09:35:41 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-03-20 09:35:40 +0000"
@@ -60,6 +54,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-03-20 09:35:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-03-20 09:35:40 +0000"
@@ -69,12 +69,6 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-20 09:35:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-03-20 09:40:55 +0000"
     },
     "done": true
   },
@@ -93,6 +87,12 @@
   "ag_day_counter:day_counter_root_advancement": {
     "criteria": {
       "day_counter_root_advancement": "2025-03-20 09:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-20 09:40:55 +0000"
     },
     "done": true
   },
@@ -144,15 +144,15 @@
     },
     "done": true
   },
-  "cold_sweat:root": {
-    "criteria": {
-      "requirement": "2025-03-20 09:35:41 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-20 09:35:40 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2025-03-20 09:35:41 +0000"
     },
     "done": true
   },
@@ -302,15 +302,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-03-20 09:35:41 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-20 09:35:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-20 09:35:41 +0000"
     },
     "done": true
   },
@@ -398,15 +398,15 @@
     },
     "done": true
   },
-  "parcool:grant_parcool_guide": {
-    "criteria": {
-      "tick": "2025-03-20 09:35:41 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-20 09:35:40 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-03-20 09:35:41 +0000"
     },
     "done": true
   },
