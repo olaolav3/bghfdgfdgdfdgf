@@ -1066,3 +1066,13 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 03:52:18.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Diamonds!]
 [21Mar2025 03:55:37.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
 [21Mar2025 03:56:10.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 04:01:42.987] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5762 in deceasedcraft:abyss
+[21Mar2025 04:01:42.987] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5762 in minecraft:the_nether
+[21Mar2025 04:01:42.988] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5762 in lostcities:lostcity
+[21Mar2025 04:01:42.988] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5762 in minecraft:the_end
+[21Mar2025 04:01:43.029] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5762 in minecraft:overworld
+[21Mar2025 04:01:57.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Isn't It Iron Pick]
+[21Mar2025 04:02:41.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Backpack] to Alrio2009]
+[21Mar2025 04:02:45.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 04:02:46.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 04:07:25.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Immersive Engineering]
