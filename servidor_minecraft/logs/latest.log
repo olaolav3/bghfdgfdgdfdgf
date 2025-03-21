@@ -1026,3 +1026,20 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 01:37:18.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
 [21Mar2025 01:38:27.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Stone Age]
 [21Mar2025 01:39:28.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Getting an Upgrade]
+[21Mar2025 01:41:58.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
+[21Mar2025 01:42:02.770] [Worker-Main17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=994, y=66, z=585}
+[21Mar2025 01:42:02.771] [Worker-Main17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=994, y=66, z=585}
+[21Mar2025 01:42:02.771] [Worker-Main17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=994, y=66, z=585}
+[21Mar2025 01:42:02.771] [Worker-Main17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=994, y=66, z=585}
+[21Mar2025 01:42:23.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[21Mar2025 01:42:41.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok hit the ground too hard whilst trying to escape The Moonflower
+[21Mar2025 01:42:43.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Mar2025 01:42:43.237] [Server thread/INFO] [tac/]: PENDING
+[21Mar2025 01:43:08.572] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=180, y=-27, z=386}
+[21Mar2025 01:43:38.592] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-52, y=-37, z=416}
+[21Mar2025 01:43:38.592] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-52, y=-37, z=418}
+[21Mar2025 01:47:56.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavZerok lost connection: Disconnected
+[21Mar2025 01:47:56.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok left the game
+[21Mar2025 01:47:56.958] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 47f289ce-7df7-3037-8ecf-80a056f9f854
+[21Mar2025 01:47:56.959] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 38502, 38502
+[21Mar2025 01:47:56.960] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavZerok

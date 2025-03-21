@@ -16833,3 +16833,64 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 01:40:57.577] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DavZerok: {disabled=false, disconnected=true, uuid=47f289ce-7df7-3037-8ecf-80a056f9f854, name=DavZerok, group=null}
 [21Mar2025 01:40:57.619] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DavZerok: {disabled=true, disconnected=true, uuid=47f289ce-7df7-3037-8ecf-80a056f9f854, name=DavZerok, group=null}
 [21Mar2025 01:40:57.660] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DavZerok: {disabled=false, disconnected=true, uuid=47f289ce-7df7-3037-8ecf-80a056f9f854, name=DavZerok, group=null}
+[21Mar2025 01:41:42.899] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[21Mar2025 01:41:49.301] [Worker-Main3/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[2, 0]
+[21Mar2025 01:41:54.474] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[21Mar2025 01:41:58.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
+[21Mar2025 01:42:00.316] [Worker-Main23/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[2, 1]
+[21Mar2025 01:42:02.770] [Worker-Main17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=994, y=66, z=585}
+[21Mar2025 01:42:02.771] [Worker-Main17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=994, y=66, z=585}
+[21Mar2025 01:42:02.771] [Worker-Main17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=994, y=66, z=585}
+[21Mar2025 01:42:02.771] [Worker-Main17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=994, y=66, z=585}
+[21Mar2025 01:42:05.042] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[21Mar2025 01:42:05.043] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[21Mar2025 01:42:14.949] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[21Mar2025 01:42:14.999] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[21Mar2025 01:42:23.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[21Mar2025 01:42:41.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok hit the ground too hard whilst trying to escape The Moonflower
+[21Mar2025 01:42:43.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Mar2025 01:42:43.237] [Server thread/INFO] [tac/]: PENDING
+[21Mar2025 01:42:47.308] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[21Mar2025 01:42:47.309] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, 0] Saved.
+[21Mar2025 01:42:47.309] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 1] Saved.
+[21Mar2025 01:42:47.309] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[21Mar2025 01:42:47.309] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[21Mar2025 01:42:47.310] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, 1] Saved.
+[21Mar2025 01:42:47.310] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[21Mar2025 01:42:47.322] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[21Mar2025 01:42:47.322] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[21Mar2025 01:42:47.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 01:42:47.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 01:43:08.572] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=180, y=-27, z=386}
+[21Mar2025 01:43:38.592] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-52, y=-37, z=416}
+[21Mar2025 01:43:38.592] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-52, y=-37, z=418}
+[21Mar2025 01:44:00.309] [Worker-Main41/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, 1]
+[21Mar2025 01:44:05.811] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[21Mar2025 01:45:13.256] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[21Mar2025 01:45:35.099] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[21Mar2025 01:46:04.309] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$550558b33d424200bfeaea7fb7c2c909 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[21Mar2025 01:47:47.311] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[21Mar2025 01:47:47.311] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[21Mar2025 01:47:47.312] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 1] Saved.
+[21Mar2025 01:47:47.312] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[21Mar2025 01:47:47.312] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 1] Saved.
+[21Mar2025 01:47:47.312] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[21Mar2025 01:47:47.312] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[21Mar2025 01:47:47.312] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[21Mar2025 01:47:47.314] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[21Mar2025 01:47:47.326] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[21Mar2025 01:47:47.328] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[21Mar2025 01:47:47.328] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[21Mar2025 01:47:47.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 01:47:47.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 01:47:56.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavZerok lost connection: Disconnected
+[21Mar2025 01:47:56.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok left the game
+[21Mar2025 01:47:56.958] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 47f289ce-7df7-3037-8ecf-80a056f9f854
+[21Mar2025 01:47:56.959] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 38502, 38502
+[21Mar2025 01:47:56.960] [Server thread/DEBUG] [readyplayerfun/]: (pauseServer) Raining: true rainTime: 10116, thundering: false, thunderTime 0, weatherTime: 0, randomTickSpeed: 3, doFireTick: true
+[21Mar2025 01:47:56.960] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavZerok
+[21Mar2025 01:47:56.961] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DavZerok
+[21Mar2025 01:48:55.049] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[21Mar2025 01:49:54.205] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[21Mar2025 01:49:54.205] [Worker-Main38/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main38 shutdown
+[21Mar2025 01:50:54.205] [Worker-Main16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main16 shutdown
