@@ -1,0 +1,17 @@
+{
+	id: "47f289ce-7df7-3037-8ecf-80a056f9f854"
+	type: "player"
+	player_name: "DavZerok"
+	ranks: {
+		47f289ce-7df7-3037-8ecf-80a056f9f854: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DavZerok"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7B59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
