@@ -1029,3 +1029,11 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 03:14:28.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
 [21Mar2025 03:16:33.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
 [21Mar2025 03:16:44.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[21Mar2025 03:20:02.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Sweet Dreams]
+[21Mar2025 03:20:07.439] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10231 in deceasedcraft:abyss
+[21Mar2025 03:20:07.440] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10231 in minecraft:the_nether
+[21Mar2025 03:20:07.440] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10231 in lostcities:lostcity
+[21Mar2025 03:20:07.441] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10231 in minecraft:the_end
+[21Mar2025 03:20:07.479] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10231 in minecraft:overworld
+[21Mar2025 03:28:11.890] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[21Mar2025 03:28:11.890] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-03-20_09-35-42.zip"

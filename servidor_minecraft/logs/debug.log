@@ -16703,3 +16703,41 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 03:16:34.739] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
 [21Mar2025 03:16:44.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
 [21Mar2025 03:18:45.951] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[21Mar2025 03:19:50.429] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[21Mar2025 03:19:50.479] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[21Mar2025 03:19:56.087] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[21Mar2025 03:19:56.088] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[21Mar2025 03:19:56.098] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[21Mar2025 03:19:56.099] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[21Mar2025 03:19:56.099] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[21Mar2025 03:19:56.100] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[21Mar2025 03:19:56.101] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[21Mar2025 03:19:56.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 03:19:56.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 03:20:02.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Sweet Dreams]
+[21Mar2025 03:20:07.439] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10231 in deceasedcraft:abyss
+[21Mar2025 03:20:07.440] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10231 in minecraft:the_nether
+[21Mar2025 03:20:07.440] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10231 in lostcities:lostcity
+[21Mar2025 03:20:07.441] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10231 in minecraft:the_end
+[21Mar2025 03:20:07.479] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10231 in minecraft:overworld
+[21Mar2025 03:21:16.905] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[21Mar2025 03:21:33.397] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[21Mar2025 03:23:02.140] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[21Mar2025 03:23:10.579] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[21Mar2025 03:23:22.398] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[21Mar2025 03:23:24.246] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[21Mar2025 03:24:54.938] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[21Mar2025 03:24:54.938] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[21Mar2025 03:24:56.089] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[21Mar2025 03:24:56.090] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[21Mar2025 03:24:56.099] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[21Mar2025 03:24:56.099] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[21Mar2025 03:24:56.100] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[21Mar2025 03:24:56.101] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[21Mar2025 03:24:56.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 03:24:56.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 03:26:20.071] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[21Mar2025 03:26:30.529] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[21Mar2025 03:27:20.204] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[21Mar2025 03:28:11.890] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[21Mar2025 03:28:11.890] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-03-20_09-35-42.zip"

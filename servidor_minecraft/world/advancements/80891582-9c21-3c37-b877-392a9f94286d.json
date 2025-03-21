@@ -180,6 +180,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cookie": "2025-03-21 03:15:14 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-20 09:35:40 +0000"
@@ -273,6 +279,12 @@
   "create:track_0": {
     "criteria": {
       "0": "2025-03-21 03:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-21 03:24:04 +0000"
     },
     "done": true
   },
@@ -393,6 +405,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-21 03:20:02 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-20 09:35:41 +0000"
@@ -495,6 +513,12 @@
       "minecraft:zombie": "2025-03-20 09:40:55 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-03-21 03:24:02 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_green_from_white": {
     "criteria": {
