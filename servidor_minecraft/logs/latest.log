@@ -1062,3 +1062,7 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 03:46:31.039] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10164 in lostcities:lostcity
 [21Mar2025 03:46:31.040] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10164 in minecraft:the_end
 [21Mar2025 03:46:31.079] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10164 in minecraft:overworld
+[21Mar2025 03:51:36.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Disme A Dozen]
+[21Mar2025 03:52:18.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Diamonds!]
+[21Mar2025 03:55:37.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[21Mar2025 03:56:10.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
