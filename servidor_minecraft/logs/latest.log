@@ -1096,3 +1096,11 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 04:26:20.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
 [21Mar2025 04:27:46.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [21Mar2025 04:29:05.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[21Mar2025 04:34:06.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Teleported Alrio2009 to 421.500000, 84.500000, -552.500000]
+[21Mar2025 04:35:13.536] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11450 in deceasedcraft:abyss
+[21Mar2025 04:35:13.536] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11450 in minecraft:the_nether
+[21Mar2025 04:35:13.537] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11450 in lostcities:lostcity
+[21Mar2025 04:35:13.537] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11450 in minecraft:the_end
+[21Mar2025 04:35:13.579] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11450 in minecraft:overworld
+[21Mar2025 04:36:21.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Stone Age]
+[21Mar2025 04:38:14.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3379ms or 67 ticks behind

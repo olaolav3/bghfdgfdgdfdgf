@@ -408,10 +408,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-03-21 04:29:14 +0000",
       "minecraft:beach": "2025-03-20 09:39:56 +0000",
       "minecraft:lukewarm_ocean": "2025-03-20 09:39:48 +0000",
       "minecraft:river": "2025-03-21 03:50:06 +0000",
+      "minecraft:swamp": "2025-03-21 04:28:01 +0000",
       "minecraft:forest": "2025-03-21 03:26:13 +0000",
+      "minecraft:windswept_forest": "2025-03-21 04:29:53 +0000",
+      "minecraft:ocean": "2025-03-21 04:26:21 +0000",
       "minecraft:windswept_savanna": "2025-03-21 03:50:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-21 04:23:30 +0000",
       "minecraft:savanna": "2025-03-20 09:35:41 +0000",
