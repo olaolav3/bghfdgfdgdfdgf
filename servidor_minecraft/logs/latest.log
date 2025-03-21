@@ -1076,3 +1076,14 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 04:02:45.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
 [21Mar2025 04:02:46.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
 [21Mar2025 04:07:25.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Immersive Engineering]
+[21Mar2025 04:13:59.434] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9272 in deceasedcraft:abyss
+[21Mar2025 04:13:59.434] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9272 in minecraft:the_nether
+[21Mar2025 04:13:59.435] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9272 in lostcities:lostcity
+[21Mar2025 04:13:59.435] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9272 in minecraft:the_end
+[21Mar2025 04:13:59.479] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9272 in minecraft:overworld
+[21Mar2025 04:14:35.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Apple] to Alrio2009]
+[21Mar2025 04:14:35.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Apple] to Alrio2009]
+[21Mar2025 04:14:35.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Apple] to Alrio2009]
+[21Mar2025 04:14:36.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Apple] to Alrio2009]
+[21Mar2025 04:14:41.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Block of Gold] to Alrio2009]
+[21Mar2025 04:14:41.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Block of Gold] to Alrio2009]
