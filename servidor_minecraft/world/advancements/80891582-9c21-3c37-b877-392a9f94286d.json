@@ -189,6 +189,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-03-21 03:48:40 +0000",
+      "golden_apple": "2025-03-21 05:03:33 +0000",
       "cookie": "2025-03-21 03:15:14 +0000",
       "carrot": "2025-03-21 03:30:46 +0000"
     },
@@ -635,6 +636,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-03-20 09:35:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-21 04:59:15 +0000"
     },
     "done": true
   },
