@@ -1104,3 +1104,20 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21Mar2025 04:35:13.579] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11450 in minecraft:overworld
 [21Mar2025 04:36:21.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Stone Age]
 [21Mar2025 04:38:14.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3379ms or 67 ticks behind
+[21Mar2025 04:40:01.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2804ms or 56 ticks behind
+[21Mar2025 04:41:26.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 was slain by Zombie
+[21Mar2025 04:41:26.093] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[21Mar2025 04:41:26.093] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[21Mar2025 04:41:26.094] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[21Mar2025 04:41:26.094] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[21Mar2025 04:41:26.094] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[21Mar2025 04:41:34.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[21Mar2025 04:41:34.993] [Server thread/INFO] [tac/]: PENDING
+[21Mar2025 04:45:14.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3163ms or 63 ticks behind
+[21Mar2025 04:46:00.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[21Mar2025 04:46:43.694] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10425 in deceasedcraft:abyss
+[21Mar2025 04:46:43.695] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10425 in minecraft:the_nether
+[21Mar2025 04:46:43.696] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10425 in lostcities:lostcity
+[21Mar2025 04:46:43.696] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10425 in minecraft:the_end
+[21Mar2025 04:46:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Keep Going]
+[21Mar2025 04:46:43.729] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10425 in minecraft:overworld

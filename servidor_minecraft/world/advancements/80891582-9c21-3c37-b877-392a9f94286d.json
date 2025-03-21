@@ -400,15 +400,25 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-03-21 04:37:06 +0000",
       "bayou": "2025-03-21 03:11:40 +0000",
       "old_growth_woodland": "2025-03-21 03:57:08 +0000",
-      "mediterranean_forest": "2025-03-20 09:38:36 +0000"
+      "mediterranean_forest": "2025-03-20 09:38:36 +0000",
+      "redwood_forest": "2025-03-21 04:41:25 +0000",
+      "lavender_field": "2025-03-21 04:38:58 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-21 04:36:21 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-03-21 04:29:14 +0000",
+      "minecraft:windswept_hills": "2025-03-21 04:35:52 +0000",
       "minecraft:beach": "2025-03-20 09:39:56 +0000",
       "minecraft:lukewarm_ocean": "2025-03-20 09:39:48 +0000",
       "minecraft:river": "2025-03-21 03:50:06 +0000",
