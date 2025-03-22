@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-03-22 20:25:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
@@ -271,6 +277,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-03-22 20:16:39 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-03-21 01:28:09 +0000"
@@ -310,6 +322,12 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-03-22 20:25:37 +0000"
     },
     "done": true
   },
@@ -442,6 +460,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-03-22 20:25:37 +0000"
     },
     "done": true
   },
@@ -612,6 +636,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-03-21 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-22 20:24:08 +0000"
     },
     "done": true
   },
