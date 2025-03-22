@@ -1291,3 +1291,11 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 [22Mar2025 21:02:47.619] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 80891582-9c21-3c37-b877-392a9f94286d
 [22Mar2025 21:02:47.620] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 407631, 531606
 [22Mar2025 21:02:47.620] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alrio2009
+[22Mar2025 21:21:45.918] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47ce37bb
+[22Mar2025 21:21:45.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alrio2009[/127.74.228.232:37707] logged in with entity id 617321 at (-769.6786888803515, 72.0, -1045.8598273688544)
+[22Mar2025 21:21:45.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 joined the game
+[22Mar2025 21:21:45.939] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 21:21:45.957] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 80891582-9c21-3c37-b877-392a9f94286d
+[22Mar2025 21:21:45.960] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:18:58 at 407631, 531606
+[22Mar2025 21:21:46.167] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alrio2009 (17)
+[22Mar2025 21:21:46.167] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alrio2009
