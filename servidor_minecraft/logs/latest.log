@@ -1061,3 +1061,15 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Mar2025 18:35:25.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Suit Up]
 [22Mar2025 18:35:46.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Crops of the Wild]
 [22Mar2025 18:37:28.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[22Mar2025 18:40:00.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok was slain by The Wheezer
+[22Mar2025 18:40:01.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Mar2025 18:40:01.473] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 18:42:46.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Disme A Dozen]
+[22Mar2025 18:43:01.719] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10831 in deceasedcraft:abyss
+[22Mar2025 18:43:01.720] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10831 in minecraft:the_nether
+[22Mar2025 18:43:01.720] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10831 in minecraft:the_end
+[22Mar2025 18:43:01.721] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10831 in lostcities:lostcity
+[22Mar2025 18:43:01.762] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10831 in minecraft:overworld
+[22Mar2025 18:45:49.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['DavZerok'/148461, l='ServerLevel[world]', x=560.20, y=72.00, z=619.61] died: entity.hordes.ZombiePlayer.chat was slain by DavZerok
+[22Mar2025 18:48:17.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
+[22Mar2025 18:48:47.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3073ms or 61 ticks behind

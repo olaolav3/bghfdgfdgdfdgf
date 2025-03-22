@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_soup": "2025-03-22 18:39:00 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
@@ -175,6 +181,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-03-22 18:38:55 +0000",
       "bread": "2025-03-21 01:36:50 +0000"
     },
     "done": false
@@ -382,6 +389,7 @@
       "woodland": "2025-03-21 01:35:29 +0000",
       "scrubland": "2025-03-21 01:41:49 +0000",
       "bayou": "2025-03-21 01:31:50 +0000",
+      "old_growth_woodland": "2025-03-22 18:41:19 +0000",
       "mediterranean_forest": "2025-03-21 01:28:23 +0000"
     },
     "done": false
@@ -457,6 +465,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-03-22 18:42:46 +0000"
     },
     "done": true
   },
@@ -607,6 +621,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-03-22 18:39:00 +0000"
     },
     "done": true
   },
