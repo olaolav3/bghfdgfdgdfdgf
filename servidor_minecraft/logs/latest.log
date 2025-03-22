@@ -1073,3 +1073,8 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Mar2025 18:45:49.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['DavZerok'/148461, l='ServerLevel[world]', x=560.20, y=72.00, z=619.61] died: entity.hordes.ZombiePlayer.chat was slain by DavZerok
 [22Mar2025 18:48:17.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
 [22Mar2025 18:48:47.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3073ms or 61 ticks behind
+[22Mar2025 18:54:57.120] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9801 in deceasedcraft:abyss
+[22Mar2025 18:54:57.121] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9801 in minecraft:the_nether
+[22Mar2025 18:54:57.121] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9801 in minecraft:the_end
+[22Mar2025 18:54:57.122] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9801 in lostcities:lostcity
+[22Mar2025 18:54:57.162] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9801 in minecraft:overworld
