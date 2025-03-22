@@ -18041,3 +18041,143 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Mar2025 19:59:37.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavZerok moved wrongly!
 [22Mar2025 20:00:08.362] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [22Mar2025 20:00:08.412] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 20:01:00.383] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-284
+[22Mar2025 20:01:00.384] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[22Mar2025 20:01:00.385] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -3] Saved.
+[22Mar2025 20:01:00.385] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-285
+[22Mar2025 20:01:00.387] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-286
+[22Mar2025 20:01:00.399] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-288
+[22Mar2025 20:01:00.399] [IO-Worker-286/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-287
+[22Mar2025 20:01:00.400] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-289
+[22Mar2025 20:01:00.401] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-290
+[22Mar2025 20:01:00.401] [IO-Worker-284/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-291
+[22Mar2025 20:01:00.402] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-292
+[22Mar2025 20:01:00.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 20:01:00.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 20:01:42.734] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming m_7583_ with desc ()V
+[22Mar2025 20:01:42.738] [Server thread/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[22Mar2025 20:01:42.739] [Server thread/ERROR] [mezz.jei.common.network.ServerPacketRouter/]: Packet error when reading packet: DELETE_ITEM
+java.util.ServiceConfigurationError: mezz.jei.common.platform.IPlatformHelper: Provider mezz.jei.forge.platform.PlatformHelper could not be instantiated
+	at java.util.ServiceLoader.fail(ServiceLoader.java:586) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:813) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.get(ServiceLoader.java:729) ~[?:?]
+	at java.util.ServiceLoader$3.next(ServiceLoader.java:1403) ~[?:?]
+	at java.util.ServiceLoader.findFirst(ServiceLoader.java:1812) ~[?:?]
+	at mezz.jei.common.platform.Services.load(Services.java:15) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.common.platform.Services.<clinit>(Services.java:11) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.common.network.packets.PacketDeletePlayerItem.readPacketData(PacketDeletePlayerItem.java:50) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.common.network.ServerPacketRouter.lambda$onPacket$1(ServerPacketRouter.java:42) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at mezz.jei.common.network.ServerPacketRouter.onPacket(ServerPacketRouter.java:37) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.forge.network.NetworkHandler.lambda$registerServerPacketHandler$1(NetworkHandler.java:48) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.network.NetworkInstance.dispatch(NetworkInstance.java:68) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at net.minecraftforge.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraftforge.network.NetworkHooks.onCustomPayload(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7423_(ServerGamePacketListenerImpl.java:1440) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:35) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:8) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:761) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.18.2-40.2.21.jar%2318!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at mezz.jei.forge.platform.PlatformHelper.<init>(PlatformHelper.java:10) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:789) ~[?:?]
+	... 35 more
+[22Mar2025 20:01:57.476] [Server thread/ERROR] [mezz.jei.common.network.ServerPacketRouter/]: Packet error when reading packet: DELETE_ITEM
+java.lang.NoClassDefFoundError: Could not initialize class mezz.jei.common.platform.Services
+	at mezz.jei.common.network.packets.PacketDeletePlayerItem.readPacketData(PacketDeletePlayerItem.java:50) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.common.network.ServerPacketRouter.lambda$onPacket$1(ServerPacketRouter.java:42) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at mezz.jei.common.network.ServerPacketRouter.onPacket(ServerPacketRouter.java:37) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.forge.network.NetworkHandler.lambda$registerServerPacketHandler$1(NetworkHandler.java:48) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.network.NetworkInstance.dispatch(NetworkInstance.java:68) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at net.minecraftforge.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraftforge.network.NetworkHooks.onCustomPayload(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7423_(ServerGamePacketListenerImpl.java:1440) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:35) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:8) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:761) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceConfigurationError: mezz.jei.common.platform.IPlatformHelper: Provider mezz.jei.forge.platform.PlatformHelper could not be instantiated [in thread "Server thread"]
+	at java.util.ServiceLoader.fail(ServiceLoader.java:586) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:813) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.get(ServiceLoader.java:729) ~[?:?]
+	at java.util.ServiceLoader$3.next(ServiceLoader.java:1403) ~[?:?]
+	at java.util.ServiceLoader.findFirst(ServiceLoader.java:1812) ~[?:?]
+	at mezz.jei.common.platform.Services.load(Services.java:15) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.common.platform.Services.<clinit>(Services.java:11) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	... 30 more
+[22Mar2025 20:02:11.242] [IO-Worker-283/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-293
+[22Mar2025 20:03:28.562] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 20:04:28.340] [IO-Worker-286/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-294
+[22Mar2025 20:05:12.070] [IO-Worker-294/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-295
+[22Mar2025 20:06:00.388] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[22Mar2025 20:06:00.388] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[22Mar2025 20:06:00.388] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-296
+[22Mar2025 20:06:00.389] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-297
+[22Mar2025 20:06:00.390] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-298
+[22Mar2025 20:06:00.391] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, 1] Saved.
+[22Mar2025 20:06:00.391] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-299
+[22Mar2025 20:06:00.410] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-300
+[22Mar2025 20:06:00.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 20:06:00.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 20:06:27.924] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[22Mar2025 20:06:27.925] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-03-21_03-28-11.zip"
+[22Mar2025 20:06:48.562] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 20:06:59.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok was slain by Infected Police
+[22Mar2025 20:07:00.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Mar2025 20:07:00.242] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 20:08:58.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[22Mar2025 20:09:02.535] [IO-Worker-297/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-301
+[22Mar2025 20:09:09.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[22Mar2025 20:10:08.412] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 20:10:08.462] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 20:10:52.299] [IO-Worker-296/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-302
