@@ -1222,3 +1222,22 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 [22Mar2025 20:07:00.242] [Server thread/INFO] [tac/]: PENDING
 [22Mar2025 20:08:58.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
 [22Mar2025 20:09:09.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[22Mar2025 20:12:52.729] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-472, y=25, z=-928} but found not block entity block Block{minecraft:stone} at location
+[22Mar2025 20:12:52.729] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-472, y=25, z=-928}
+[22Mar2025 20:13:05.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4233ms or 84 ticks behind
+[22Mar2025 20:13:19.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['DavZerok'/431698, l='ServerLevel[world]', x=937.49, y=68.30, z=696.73] died: entity.hordes.ZombiePlayer.chat was slain by DavZerok
+[22Mar2025 20:14:07.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[22Mar2025 20:14:25.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[22Mar2025 20:14:47.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[22Mar2025 20:15:28.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
+[22Mar2025 20:15:29.173] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45642dc6
+[22Mar2025 20:15:58.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2831ms or 56 ticks behind
+[22Mar2025 20:16:34.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3664ms or 73 ticks behind
+[22Mar2025 20:16:36.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [HAMMAH!]
+[22Mar2025 20:16:39.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Connecting]
+[22Mar2025 20:17:01.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[22Mar2025 20:19:43.157] [Worker-Main20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-981, y=168, z=-1021}
+[22Mar2025 20:19:43.157] [Worker-Main20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-981, y=168, z=-1020}
+[22Mar2025 20:19:43.158] [Worker-Main20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-981, y=168, z=-1017}
+[22Mar2025 20:19:43.158] [Worker-Main20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-981, y=168, z=-1016}
+[22Mar2025 20:19:46.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
