@@ -1286,3 +1286,8 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 [22Mar2025 20:59:47.371] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10297 in lostcities:lostcity
 [22Mar2025 20:59:47.412] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10297 in minecraft:overworld
 [22Mar2025 21:01:51.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[22Mar2025 21:02:47.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alrio2009 lost connection: Disconnected
+[22Mar2025 21:02:47.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 left the game
+[22Mar2025 21:02:47.619] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 80891582-9c21-3c37-b877-392a9f94286d
+[22Mar2025 21:02:47.620] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 407631, 531606
+[22Mar2025 21:02:47.620] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alrio2009
