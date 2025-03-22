@@ -19391,3 +19391,110 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 	at mezz.jei.common.platform.Services.<clinit>(Services.java:11) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
 	... 30 more
 [22Mar2025 21:32:08.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has reached the goal [Modern Materials]
+[22Mar2025 21:32:43.922] [Server thread/ERROR] [mezz.jei.common.network.ServerPacketRouter/]: Packet error when reading packet: DELETE_ITEM
+java.lang.NoClassDefFoundError: Could not initialize class mezz.jei.common.platform.Services
+	at mezz.jei.common.network.packets.PacketDeletePlayerItem.readPacketData(PacketDeletePlayerItem.java:50) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.common.network.ServerPacketRouter.lambda$onPacket$1(ServerPacketRouter.java:42) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at mezz.jei.common.network.ServerPacketRouter.onPacket(ServerPacketRouter.java:37) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.forge.network.NetworkHandler.lambda$registerServerPacketHandler$1(NetworkHandler.java:48) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.network.NetworkInstance.dispatch(NetworkInstance.java:68) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at net.minecraftforge.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraftforge.network.NetworkHooks.onCustomPayload(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7423_(ServerGamePacketListenerImpl.java:1440) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:35) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:8) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:761) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceConfigurationError: mezz.jei.common.platform.IPlatformHelper: Provider mezz.jei.forge.platform.PlatformHelper could not be instantiated [in thread "Server thread"]
+	at java.util.ServiceLoader.fail(ServiceLoader.java:586) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:813) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.get(ServiceLoader.java:729) ~[?:?]
+	at java.util.ServiceLoader$3.next(ServiceLoader.java:1403) ~[?:?]
+	at java.util.ServiceLoader.findFirst(ServiceLoader.java:1812) ~[?:?]
+	at mezz.jei.common.platform.Services.load(Services.java:15) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.common.platform.Services.<clinit>(Services.java:11) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	... 30 more
+[22Mar2025 21:33:03.668] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-474
+[22Mar2025 21:33:03.669] [IO-Worker-474/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-475
+[22Mar2025 21:33:11.520] [IO-Worker-475/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-476
+[22Mar2025 21:33:29.012] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 21:34:40.680] [IO-Worker-475/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-477
+[22Mar2025 21:35:33.899] [IO-Worker-477/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-478
+[22Mar2025 21:35:33.899] [IO-Worker-475/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-479
+[22Mar2025 21:36:45.424] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-480
+[22Mar2025 21:36:45.425] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-481
+[22Mar2025 21:36:45.425] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-482
+[22Mar2025 21:36:45.426] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -2] Saved.
+[22Mar2025 21:36:45.433] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-483
+[22Mar2025 21:36:45.434] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-484
+[22Mar2025 21:36:45.434] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-485
+[22Mar2025 21:36:45.434] [IO-Worker-482/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-486
+[22Mar2025 21:36:45.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 21:36:45.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 21:36:49.012] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 21:38:09.264] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-487
+[22Mar2025 21:38:09.265] [IO-Worker-487/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-488
+[22Mar2025 21:38:20.470] [IO-Worker-487/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-489
+[22Mar2025 21:40:08.862] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 21:40:08.912] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 21:40:53.071] [IO-Worker-489/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-490
+[22Mar2025 21:41:45.423] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-491
+[22Mar2025 21:41:45.424] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-492
+[22Mar2025 21:41:45.424] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-493
+[22Mar2025 21:41:45.433] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-494
+[22Mar2025 21:41:45.433] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-495
+[22Mar2025 21:41:45.435] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-496
+[22Mar2025 21:41:45.435] [IO-Worker-489/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-497
+[22Mar2025 21:41:45.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 21:41:45.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 21:42:04.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 was slain by Runner
+[22Mar2025 21:42:53.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Mar2025 21:42:53.995] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 21:43:29.062] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 21:45:57.068] [IO-Worker-493/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-498
+[22Mar2025 21:46:45.424] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-499
+[22Mar2025 21:46:45.425] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-500
+[22Mar2025 21:46:45.425] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-501
+[22Mar2025 21:46:45.434] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-502
+[22Mar2025 21:46:45.435] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-503
+[22Mar2025 21:46:45.436] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-504
+[22Mar2025 21:46:45.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 21:46:45.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 21:46:49.062] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 21:48:13.742] [IO-Worker-492/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-505
+[22Mar2025 21:48:15.667] [IO-Worker-492/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-506
+[22Mar2025 21:50:08.912] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 21:50:08.962] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 21:51:32.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[22Mar2025 21:51:42.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[22Mar2025 21:51:45.424] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-507
+[22Mar2025 21:51:45.424] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-508
+[22Mar2025 21:51:45.424] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-509
+[22Mar2025 21:51:45.425] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-510
+[22Mar2025 21:51:45.433] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-511
+[22Mar2025 21:51:45.433] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-512
+[22Mar2025 21:51:45.434] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-513
+[22Mar2025 21:51:45.434] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-514
+[22Mar2025 21:51:45.435] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-515
+[22Mar2025 21:51:45.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 21:51:45.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 21:52:05.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[22Mar2025 21:52:12.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
