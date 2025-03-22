@@ -1266,3 +1266,11 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 [22Mar2025 20:31:34.919] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:00:47 at 370176, 474553
 [22Mar2025 20:31:35.155] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alrio2009 (17)
 [22Mar2025 20:31:35.155] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alrio2009
+[22Mar2025 20:44:12.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Spectator Mode]
+[22Mar2025 20:44:27.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[22Mar2025 20:48:22.167] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9303 in deceasedcraft:abyss
+[22Mar2025 20:48:22.167] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9303 in minecraft:the_nether
+[22Mar2025 20:48:22.167] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9303 in minecraft:the_end
+[22Mar2025 20:48:22.168] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9303 in lostcities:lostcity
+[22Mar2025 20:48:22.212] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9303 in minecraft:overworld
+[22Mar2025 20:51:43.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Super Glue] to Alrio2009]
