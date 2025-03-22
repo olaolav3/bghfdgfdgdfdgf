@@ -1274,3 +1274,15 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 [22Mar2025 20:48:22.168] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9303 in lostcities:lostcity
 [22Mar2025 20:48:22.212] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9303 in minecraft:overworld
 [22Mar2025 20:51:43.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Super Glue] to Alrio2009]
+[22Mar2025 20:52:53.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Electric Motor] to Alrio2009]
+[22Mar2025 20:53:42.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Creative Motor] to Alrio2009]
+[22Mar2025 20:54:19.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Spectator Mode]
+[22Mar2025 20:54:28.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[22Mar2025 20:57:45.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Spectator Mode]
+[22Mar2025 20:57:49.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[22Mar2025 20:59:47.369] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10297 in deceasedcraft:abyss
+[22Mar2025 20:59:47.370] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10297 in minecraft:the_nether
+[22Mar2025 20:59:47.370] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10297 in minecraft:the_end
+[22Mar2025 20:59:47.371] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10297 in lostcities:lostcity
+[22Mar2025 20:59:47.412] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10297 in minecraft:overworld
+[22Mar2025 21:01:51.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
