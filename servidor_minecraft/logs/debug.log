@@ -17257,3 +17257,48 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Mar2025 18:26:48.112] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [22Mar2025 18:27:55.854] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
 [22Mar2025 18:28:14.507] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[22Mar2025 18:29:20.107] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[22Mar2025 18:29:42.719] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$e8bad31e262b407eadd4f243fd4d797b (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[22Mar2025 18:30:00.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Sweet Dreams]
+[22Mar2025 18:30:07.912] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 18:30:07.962] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 18:30:30.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok was doomed to fall
+[22Mar2025 18:30:31.305] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[22Mar2025 18:30:31.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Mar2025 18:30:31.308] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 18:30:50.271] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[22Mar2025 18:30:50.273] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[22Mar2025 18:30:50.280] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[22Mar2025 18:30:50.281] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[22Mar2025 18:30:50.282] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[22Mar2025 18:30:50.282] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[22Mar2025 18:30:50.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 18:30:50.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 18:32:00.526] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9035 in deceasedcraft:abyss
+[22Mar2025 18:32:00.527] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9035 in minecraft:the_nether
+[22Mar2025 18:32:00.528] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9035 in minecraft:the_end
+[22Mar2025 18:32:00.528] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9035 in lostcities:lostcity
+[22Mar2025 18:32:00.562] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9035 in minecraft:overworld
+[22Mar2025 18:32:49.290] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[22Mar2025 18:33:00.033] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[22Mar2025 18:33:28.112] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 18:35:00.688] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[22Mar2025 18:35:00.700] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[22Mar2025 18:35:00.703] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[22Mar2025 18:35:25.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Suit Up]
+[22Mar2025 18:35:46.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Crops of the Wild]
+[22Mar2025 18:35:50.273] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[22Mar2025 18:35:50.274] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[22Mar2025 18:35:50.275] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[22Mar2025 18:35:50.276] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[22Mar2025 18:35:50.287] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[22Mar2025 18:35:50.288] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[22Mar2025 18:35:50.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 18:35:50.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 18:36:48.162] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 18:37:27.877] [IO-Worker-123/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[22Mar2025 18:37:28.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[22Mar2025 18:37:30.723] [Worker-Main3/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 2]
+[22Mar2025 18:37:34.192] [IO-Worker-125/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[22Mar2025 18:37:34.192] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[22Mar2025 18:39:12.731] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129

@@ -1049,3 +1049,15 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Mar2025 18:26:34.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok was slain by Zombie
 [22Mar2025 18:26:35.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [22Mar2025 18:26:35.356] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 18:30:00.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Sweet Dreams]
+[22Mar2025 18:30:30.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok was doomed to fall
+[22Mar2025 18:30:31.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Mar2025 18:30:31.308] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 18:32:00.526] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9035 in deceasedcraft:abyss
+[22Mar2025 18:32:00.527] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9035 in minecraft:the_nether
+[22Mar2025 18:32:00.528] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9035 in minecraft:the_end
+[22Mar2025 18:32:00.528] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9035 in lostcities:lostcity
+[22Mar2025 18:32:00.562] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9035 in minecraft:overworld
+[22Mar2025 18:35:25.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Suit Up]
+[22Mar2025 18:35:46.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement [Crops of the Wild]
+[22Mar2025 18:37:28.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind

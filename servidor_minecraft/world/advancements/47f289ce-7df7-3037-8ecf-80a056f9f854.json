@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-03-22 18:35:46 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
@@ -347,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-03-22 18:35:25 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
@@ -387,15 +399,28 @@
       "minecraft:lukewarm_ocean": "2025-03-21 01:31:08 +0000",
       "minecraft:river": "2025-03-21 01:31:43 +0000",
       "minecraft:forest": "2025-03-21 01:43:45 +0000",
+      "minecraft:jungle": "2025-03-22 18:31:27 +0000",
       "minecraft:windswept_savanna": "2025-03-21 01:31:46 +0000",
       "minecraft:savanna": "2025-03-21 01:28:09 +0000",
       "minecraft:plains": "2025-03-21 01:43:56 +0000"
     },
     "done": false
   },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_ingot": "2025-03-22 18:34:15 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-22 18:30:00 +0000"
     },
     "done": true
   },
