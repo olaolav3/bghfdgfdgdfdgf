@@ -65,15 +65,15 @@
     },
     "done": true
   },
-  "cold_sweat:root": {
-    "criteria": {
-      "requirement": "2025-03-21 01:28:10 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2025-03-21 01:28:10 +0000"
     },
     "done": true
   },
@@ -128,6 +128,12 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-22 18:09:37 +0000"
     },
     "done": true
   },
@@ -311,12 +317,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-03-21 01:29:09 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-03-21 01:28:10 +0000"
@@ -326,6 +326,12 @@
   "ag_day_counter:day_counter_root_advancement": {
     "criteria": {
       "day_counter_root_advancement": "2025-03-21 01:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-21 01:29:09 +0000"
     },
     "done": true
   },
@@ -377,6 +383,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-03-21 01:31:35 +0000",
+      "minecraft:sparse_jungle": "2025-03-22 18:18:10 +0000",
       "minecraft:lukewarm_ocean": "2025-03-21 01:31:08 +0000",
       "minecraft:river": "2025-03-21 01:31:43 +0000",
       "minecraft:forest": "2025-03-21 01:43:45 +0000",
@@ -458,15 +465,21 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
+  "lootr:social": {
     "criteria": {
-      "seeds": "2025-03-21 01:28:10 +0000"
+      "opened_chest": "2025-03-22 18:09:37 +0000"
     },
-    "done": true
+    "done": false
   },
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-21 01:28:10 +0000"
     },
     "done": true
   },

@@ -1022,3 +1022,30 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Mar2025 18:08:39.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5045ms or 100 ticks behind
 [22Mar2025 18:08:41.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [22Mar2025 18:08:41.702] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 18:09:37.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok has made the advancement ['X' Marks the Spot]
+[22Mar2025 18:18:16.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[22Mar2025 18:18:45.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavZerok lost connection: Disconnected
+[22Mar2025 18:18:45.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok left the game
+[22Mar2025 18:18:45.327] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 47f289ce-7df7-3037-8ecf-80a056f9f854
+[22Mar2025 18:18:45.328] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 217441, 292154
+[22Mar2025 18:18:45.329] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavZerok
+[22Mar2025 18:22:55.520] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@17fb4c77
+[22Mar2025 18:22:55.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavZerok[/127.159.136.178:60559] logged in with entity id 60516 at (347.04559130210373, 75.0, 542.1255126504611)
+[22Mar2025 18:22:55.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok joined the game
+[22Mar2025 18:22:55.545] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 18:22:55.561] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 47f289ce-7df7-3037-8ecf-80a056f9f854
+[22Mar2025 18:22:55.587] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:04:10 at 217441, 292154
+[22Mar2025 18:22:55.720] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavZerok (17)
+[22Mar2025 18:22:55.722] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavZerok
+[22Mar2025 18:22:59.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[22Mar2025 18:23:45.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[22Mar2025 18:24:13.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok was slain by Runner
+[22Mar2025 18:24:14.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Mar2025 18:24:14.559] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 18:24:39.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-40, y=72, z=171}
+[22Mar2025 18:24:47.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-40, y=72, z=173} BlockPos{x=-40, y=72, z=171}
+[22Mar2025 18:25:04.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-40, y=72, z=173} BlockPos{x=-42, y=77, z=172}
+[22Mar2025 18:25:08.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-40, y=72, z=173} BlockPos{x=-40, y=78, z=169}
+[22Mar2025 18:26:34.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok was slain by Zombie
+[22Mar2025 18:26:35.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Mar2025 18:26:35.356] [Server thread/INFO] [tac/]: PENDING
