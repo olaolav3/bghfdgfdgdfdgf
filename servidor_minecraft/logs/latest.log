@@ -1104,3 +1104,7 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Mar2025 19:29:48.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [22Mar2025 19:29:48.777] [Server thread/INFO] [tac/]: PENDING
 [22Mar2025 19:30:11.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Teleported Alrio2009 to 37.500000, 66.500000, -953.500000]
+[22Mar2025 19:30:46.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [A Glorious Feast]
+[22Mar2025 19:39:52.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DavZerok was slain by Zombie
+[22Mar2025 19:39:54.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Mar2025 19:39:54.144] [Server thread/INFO] [tac/]: PENDING

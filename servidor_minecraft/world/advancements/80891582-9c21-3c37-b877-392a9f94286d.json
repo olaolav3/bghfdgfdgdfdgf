@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "roast_chicken": "2025-03-22 19:30:46 +0000"
+    },
+    "done": true
+  },
   "ag_day_counter:firts_day_advancement": {
     "criteria": {
       "firts_day_advancement": "2025-03-20 09:35:41 +0000"
