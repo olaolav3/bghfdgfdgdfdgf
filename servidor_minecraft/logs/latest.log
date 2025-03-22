@@ -1097,3 +1097,10 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Mar2025 19:12:48.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Teleported Alrio2009 to 63.500000, 61.500000, -1202.500000]
 [22Mar2025 19:14:22.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Teleported Alrio2009 to -21.500000, 74.500000, -920.500000]
 [22Mar2025 19:14:26.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[22Mar2025 19:20:07.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Block of Iron] to Alrio2009]
+[22Mar2025 19:20:11.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Crafting Table] to Alrio2009]
+[22Mar2025 19:22:42.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Connecting]
+[22Mar2025 19:29:32.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 died from dehydration while fighting Zombie
+[22Mar2025 19:29:48.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Mar2025 19:29:48.777] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 19:30:11.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Teleported Alrio2009 to 37.500000, 66.500000, -953.500000]

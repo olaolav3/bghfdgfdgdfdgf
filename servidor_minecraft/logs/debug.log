@@ -17909,3 +17909,42 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Mar2025 19:18:45.478] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Alrio2009: {disabled=false, disconnected=true, uuid=80891582-9c21-3c37-b877-392a9f94286d, name=Alrio2009, group=null}
 [22Mar2025 19:18:45.823] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Alrio2009: {disabled=true, disconnected=true, uuid=80891582-9c21-3c37-b877-392a9f94286d, name=Alrio2009, group=null}
 [22Mar2025 19:19:45.924] [IO-Worker-205/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-208
+[22Mar2025 19:20:07.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Block of Iron] to Alrio2009]
+[22Mar2025 19:20:08.162] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 19:20:08.212] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 19:20:11.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Crafting Table] to Alrio2009]
+[22Mar2025 19:21:00.380] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-209
+[22Mar2025 19:21:00.380] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-210
+[22Mar2025 19:21:00.382] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-211
+[22Mar2025 19:21:00.394] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-212
+[22Mar2025 19:21:00.394] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-213
+[22Mar2025 19:21:00.395] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-214
+[22Mar2025 19:21:00.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 19:21:00.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 19:22:42.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Connecting]
+[22Mar2025 19:23:28.362] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 19:25:10.877] [IO-Worker-208/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-215
+[22Mar2025 19:25:10.922] [IO-Worker-209/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-216
+[22Mar2025 19:26:00.378] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-217
+[22Mar2025 19:26:00.378] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-218
+[22Mar2025 19:26:00.388] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-219
+[22Mar2025 19:26:00.388] [IO-Worker-215/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-220
+[22Mar2025 19:26:00.389] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-221
+[22Mar2025 19:26:00.389] [IO-Worker-209/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-222
+[22Mar2025 19:26:00.390] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-223
+[22Mar2025 19:26:00.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 19:26:00.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 19:26:48.362] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 19:27:36.851] [IO-Worker-221/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-224
+[22Mar2025 19:27:36.852] [IO-Worker-221/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-225
+[22Mar2025 19:27:36.852] [IO-Worker-216/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-226
+[22Mar2025 19:29:32.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 died from dehydration while fighting Zombie
+[22Mar2025 19:29:33.923] [IO-Worker-221/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-227
+[22Mar2025 19:29:33.942] [IO-Worker-221/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-228
+[22Mar2025 19:29:33.942] [IO-Worker-227/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-229
+[22Mar2025 19:29:33.943] [IO-Worker-225/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-230
+[22Mar2025 19:29:48.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[22Mar2025 19:29:48.777] [Server thread/INFO] [tac/]: PENDING
+[22Mar2025 19:30:08.212] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 19:30:08.262] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 19:30:11.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Teleported Alrio2009 to 37.500000, 66.500000, -953.500000]
