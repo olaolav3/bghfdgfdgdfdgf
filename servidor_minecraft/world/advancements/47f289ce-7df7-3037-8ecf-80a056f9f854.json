@@ -182,7 +182,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-03-22 18:38:55 +0000",
-      "bread": "2025-03-21 01:36:50 +0000"
+      "bread": "2025-03-21 01:36:50 +0000",
+      "carrot": "2025-03-22 19:03:37 +0000"
     },
     "done": false
   },
@@ -536,7 +537,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-03-21 01:29:09 +0000"
+      "minecraft:husk": "2025-03-22 18:56:37 +0000",
+      "minecraft:zombie": "2025-03-21 01:29:09 +0000",
+      "minecraft:drowned": "2025-03-22 19:03:15 +0000"
     },
     "done": false
   },
@@ -636,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-22 19:03:43 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-03-21 01:28:09 +0000"
@@ -646,6 +655,12 @@
     "criteria": {
       "has_blazepowder": "2025-03-21 01:28:10 +0000",
       "has_bolt": "2025-03-21 01:28:10 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_ingot": "2025-03-22 19:03:43 +0000"
     },
     "done": true
   },
