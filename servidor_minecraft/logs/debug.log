@@ -19246,3 +19246,148 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceCon
 [22Mar2025 21:21:46.167] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Alrio2009
 [22Mar2025 21:21:46.167] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Alrio2009
 [22Mar2025 21:21:46.167] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alrio2009
+[22Mar2025 21:22:11.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Teleported Alrio2009 to -825.500000, 72.500000, -812.500000]
+[22Mar2025 21:22:18.109] [Worker-Main448/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-3, -2]
+[22Mar2025 21:22:20.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5143ms or 102 ticks behind
+[22Mar2025 21:22:28.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Teleported Alrio2009 to -934.500000, 84.500000, -678.500000]
+[22Mar2025 21:22:32.146] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1030, y=18, z=-592} but found not block entity block Block{minecraft:oak_planks} at location
+[22Mar2025 21:22:32.146] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:oak_planks} but failed at location BlockPos{x=-1030, y=18, z=-592}
+[22Mar2025 21:22:36.261] [Worker-Main441/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, -1]
+[22Mar2025 21:22:46.313] [Worker-Main39/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-3, -1]
+[22Mar2025 21:22:54.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19369ms or 387 ticks behind
+[22Mar2025 21:22:55.132] [IO-Worker-428/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-450
+[22Mar2025 21:22:55.132] [IO-Worker-423/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-449
+[22Mar2025 21:23:10.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 1    [Bandage] to Alrio2009]
+[22Mar2025 21:23:11.971] [Server thread/ERROR] [mezz.jei.common.network.ServerPacketRouter/]: Packet error when reading packet: DELETE_ITEM
+java.lang.NoClassDefFoundError: Could not initialize class mezz.jei.common.platform.Services
+	at mezz.jei.common.network.packets.PacketDeletePlayerItem.readPacketData(PacketDeletePlayerItem.java:50) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.common.network.ServerPacketRouter.lambda$onPacket$1(ServerPacketRouter.java:42) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at mezz.jei.common.network.ServerPacketRouter.onPacket(ServerPacketRouter.java:37) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.forge.network.NetworkHandler.lambda$registerServerPacketHandler$1(NetworkHandler.java:48) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.network.NetworkInstance.dispatch(NetworkInstance.java:68) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at net.minecraftforge.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraftforge.network.NetworkHooks.onCustomPayload(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7423_(ServerGamePacketListenerImpl.java:1440) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:35) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:8) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:761) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceConfigurationError: mezz.jei.common.platform.IPlatformHelper: Provider mezz.jei.forge.platform.PlatformHelper could not be instantiated [in thread "Server thread"]
+	at java.util.ServiceLoader.fail(ServiceLoader.java:586) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:813) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.get(ServiceLoader.java:729) ~[?:?]
+	at java.util.ServiceLoader$3.next(ServiceLoader.java:1403) ~[?:?]
+	at java.util.ServiceLoader.findFirst(ServiceLoader.java:1812) ~[?:?]
+	at mezz.jei.common.platform.Services.load(Services.java:15) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.common.platform.Services.<clinit>(Services.java:11) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	... 30 more
+[22Mar2025 21:23:13.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 15    [Bandage] to Alrio2009]
+[22Mar2025 21:23:16.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 16    [Bandage] to Alrio2009]
+[22Mar2025 21:23:28.962] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 21:24:25.214] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 21 in "main" inventory handler
+[22Mar2025 21:26:43.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[22Mar2025 21:26:45.423] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-451
+[22Mar2025 21:26:45.423] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -1] Saved.
+[22Mar2025 21:26:45.424] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -2] Saved.
+[22Mar2025 21:26:45.424] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-452
+[22Mar2025 21:26:45.424] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-453
+[22Mar2025 21:26:45.425] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[22Mar2025 21:26:45.425] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-454
+[22Mar2025 21:26:45.426] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -1] Saved.
+[22Mar2025 21:26:45.426] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -2] Saved.
+[22Mar2025 21:26:45.432] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-455
+[22Mar2025 21:26:45.433] [IO-Worker-455/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-456
+[22Mar2025 21:26:45.433] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-457
+[22Mar2025 21:26:45.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 21:26:45.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 21:26:48.962] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 21:27:00.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[22Mar2025 21:27:02.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[22Mar2025 21:28:01.228] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[22Mar2025 21:28:01.322] [IO-Worker-451/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-458
+[22Mar2025 21:28:04.122] [IO-Worker-451/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-459
+[22Mar2025 21:28:16.570] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[22Mar2025 21:28:33.320] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[22Mar2025 21:28:37.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[22Mar2025 21:29:19.986] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-460
+[22Mar2025 21:29:19.986] [IO-Worker-460/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-461
+[22Mar2025 21:29:19.987] [IO-Worker-461/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-462
+[22Mar2025 21:29:20.020] [IO-Worker-461/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-463
+[22Mar2025 21:30:03.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Creative Mode]
+[22Mar2025 21:30:08.812] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 21:30:08.862] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 21:30:10.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Set own game mode to Survival Mode]
+[22Mar2025 21:31:45.426] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-464
+[22Mar2025 21:31:45.426] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-465
+[22Mar2025 21:31:45.426] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -1] Saved.
+[22Mar2025 21:31:45.426] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-466
+[22Mar2025 21:31:45.426] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-467
+[22Mar2025 21:31:45.427] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-468
+[22Mar2025 21:31:45.428] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -1] Saved.
+[22Mar2025 21:31:45.435] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-469
+[22Mar2025 21:31:45.435] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-471
+[22Mar2025 21:31:45.435] [IO-Worker-466/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-470
+[22Mar2025 21:31:45.437] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-472
+[22Mar2025 21:31:45.437] [IO-Worker-468/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-473
+[22Mar2025 21:31:45.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 21:31:45.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 21:31:51.273] [Server thread/ERROR] [mezz.jei.common.network.ServerPacketRouter/]: Packet error when reading packet: DELETE_ITEM
+java.lang.NoClassDefFoundError: Could not initialize class mezz.jei.common.platform.Services
+	at mezz.jei.common.network.packets.PacketDeletePlayerItem.readPacketData(PacketDeletePlayerItem.java:50) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.common.network.ServerPacketRouter.lambda$onPacket$1(ServerPacketRouter.java:42) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at mezz.jei.common.network.ServerPacketRouter.onPacket(ServerPacketRouter.java:37) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.forge.network.NetworkHandler.lambda$registerServerPacketHandler$1(NetworkHandler.java:48) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.network.NetworkInstance.dispatch(NetworkInstance.java:68) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at net.minecraftforge.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraftforge.network.NetworkHooks.onCustomPayload(NetworkHooks.java:78) ~[forge-1.18.2-40.2.21-universal.jar%23231!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7423_(ServerGamePacketListenerImpl.java:1440) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:35) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:8) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:761) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.util.ServiceConfigurationError: mezz.jei.common.platform.IPlatformHelper: Provider mezz.jei.forge.platform.PlatformHelper could not be instantiated [in thread "Server thread"]
+	at java.util.ServiceLoader.fail(ServiceLoader.java:586) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:813) ~[?:?]
+	at java.util.ServiceLoader$ProviderImpl.get(ServiceLoader.java:729) ~[?:?]
+	at java.util.ServiceLoader$3.next(ServiceLoader.java:1403) ~[?:?]
+	at java.util.ServiceLoader.findFirst(ServiceLoader.java:1812) ~[?:?]
+	at mezz.jei.common.platform.Services.load(Services.java:15) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	at mezz.jei.common.platform.Services.<clinit>(Services.java:11) ~[jei-1.18.2-forge-10.2.1.1005.jar%23137!/:10.2.1.1005]
+	... 30 more
+[22Mar2025 21:32:08.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has reached the goal [Modern Materials]
