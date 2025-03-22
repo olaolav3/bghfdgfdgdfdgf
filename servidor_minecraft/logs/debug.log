@@ -18014,3 +18014,30 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Mar2025 19:49:35.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Amateur Archaeologist]
 [22Mar2025 19:50:08.312] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [22Mar2025 19:50:08.362] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 19:51:00.387] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-268
+[22Mar2025 19:51:00.388] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-269
+[22Mar2025 19:51:00.400] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-270
+[22Mar2025 19:51:00.400] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-271
+[22Mar2025 19:51:00.401] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-272
+[22Mar2025 19:51:00.403] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-273
+[22Mar2025 19:51:00.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 19:51:00.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 19:53:28.512] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 19:54:10.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Penteconter]
+[22Mar2025 19:54:57.623] [IO-Worker-266/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-274
+[22Mar2025 19:55:44.045] [IO-Worker-274/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-275
+[22Mar2025 19:56:00.381] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[22Mar2025 19:56:00.381] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-276
+[22Mar2025 19:56:00.381] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-277
+[22Mar2025 19:56:00.382] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-278
+[22Mar2025 19:56:00.384] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-279
+[22Mar2025 19:56:00.395] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-280
+[22Mar2025 19:56:00.396] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-281
+[22Mar2025 19:56:00.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 19:56:00.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 19:56:48.512] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 19:59:04.492] [IO-Worker-276/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-282
+[22Mar2025 19:59:27.191] [IO-Worker-282/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-283
+[22Mar2025 19:59:37.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavZerok moved wrongly!
+[22Mar2025 20:00:08.362] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 20:00:08.412] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...

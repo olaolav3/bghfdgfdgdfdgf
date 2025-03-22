@@ -1113,3 +1113,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22Mar2025 19:44:59.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has completed the challenge [Yo mama so fat, she can summon zombies]
 [22Mar2025 19:48:52.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Alrio2009: Gave 16    [Bandage] to Alrio2009]
 [22Mar2025 19:49:35.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Amateur Archaeologist]
+[22Mar2025 19:54:10.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alrio2009 has made the advancement [Penteconter]
+[22Mar2025 19:59:37.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavZerok moved wrongly!
